@@ -826,11 +826,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/smallla-chouette-agence-banniere.jpg");
+    background-image: url("img/smla-chouette-agence-banniere-min.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/bisimage-de-presentation.jpg");
+    background-image: url("img/bisimage-de-presentation-min.jpg");
 }
 
 @media (max-width: 1024px) {
