@@ -708,6 +708,7 @@ a {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    font-size: 15px;
 }
 
 .h1 {
@@ -723,6 +724,7 @@ a {
     font-size: 16px;
     font-weight: 700;
     width: auto;
+    margin-left: 30px;
 }
 
 .social {
@@ -1049,6 +1051,13 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .form-group{
+        margin-left: 15px;
+    }
+    .col-sm-6{
+        margin-left: 20px;
+        margin-top: 15px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1066,6 +1075,10 @@ h4 {
     }
     .navbar-header img{
         width: 260px;
+    }
+    .col-sm-6{
+        margin-left: 10px;
+        margin-top: 15px;
     }
 }
 
