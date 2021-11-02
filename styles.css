@@ -677,6 +677,12 @@ a {
     font-weight: 400;
     color: #575757!important;
 }
+h5{
+    font-style: italic;
+}
+h4{
+    font-size: 17px;
+}
 
 .container {
     max-width: 1000px;
