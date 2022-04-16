@@ -43,21 +43,29 @@ Ces actions ont pu être réalisées en mettant en place les modifications suiva
 
 
 
-					Le rapport d’analyse SEO								
+Le rapport d’analyse SEO	
+
 													
 Analyse/Points non optimisés	
-23 points 
+
+
+-23 points 
 
 
 10 points à améliorer	
-10 points 
+
+
+-10 points 
 
 
 Recommandations / Améliorations	
-Améliorer / Corriger
+
+
+-Améliorer / Corriger
 													
 
 Le code a été versionner sur GIT et déployé sur GITHUB
+
 
 Technologies, logiciels, outils et langages utilisés
 
@@ -71,3 +79,10 @@ Technologies, logiciels, outils et langages utilisés
   Javascript
   Plugins : Liveserver, Beautify, JS & CSS Minifier
   Devtools
+  
+  
+  
+
+  
+  
+  
